@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "localshop-61a6a",
+          "appId": "1:179045679991:android:76367785030e1c1ead1772",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "localshop-61a6a",
+          "configurations": {
+            "android": "1:179045679991:android:76367785030e1c1ead1772",
+            "ios": "1:179045679991:ios:8d4b8ed3dd5c1d2dad1772",
+            "macos": "1:179045679991:ios:8d4b8ed3dd5c1d2dad1772",
+            "web": "1:179045679991:web:999d4e2d42d4e3a7ad1772",
+            "windows": "1:179045679991:web:56599e24759b5aebad1772"
+          }
+        }
+      }
+    }
+  },
+  "emulators": {
+    "singleProjectMode": true
+  }
+}
